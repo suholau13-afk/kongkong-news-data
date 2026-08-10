@@ -43,7 +43,10 @@ exports.handler = async (event) => {
     }
     const html = await res.text();
     const dom = new JSDOM(html, { url: targetUrl });
-    const reader = new Readability(dom.window.document);
+    const doc = dom.window.document;
+    // 국내 언론사 페이지에 흔한 메뉴/네비게이션이 본문에 섞여 들어오는 걸 막기 위해 먼저 제거
+    doc.querySelectorAll("script, style, nav, header, footer, form, iframe, noscript, [role='navigation']").forEach((el) => el.remove());
+    const reader = new Readability(doc);
     const article = reader.parse();
 
     if (!article || !article.content) {
