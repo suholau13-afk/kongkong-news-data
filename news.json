@@ -18,7 +18,7 @@
       "word": { "term": "탐사선", "explain": "사람 대신 우주나 낯선 곳을 살펴보러 가는 특별한 로봇 우주선이에요." },
       "quiz": { "question": "달의 남극에는 얼음 형태의 물이 있을 가능성이 있다?", "answer": "O", "explain": "맞아요! 햇빛이 안 드는 그늘진 곳에 얼음이 숨어 있을 수 있대요." },
       "kongi": "콩이도 달나라 얼음물 한번 마셔보고 싶다... 완전 시원할 듯? 🧊",
-      "source": { "name": "사이언스타임즈", "url": "https://www.sciencetimes.co.kr/nscvrg/view/menu/248?searchCategory=220&nscvrgSn=261321" }
+      "source": { "name": "ZDNet Korea", "url": "https://zdnet.co.kr/view/?no=20260511151312" }
     },
     {
       "id": "weather-01",
@@ -36,7 +36,7 @@
       "word": { "term": "열대야", "explain": "밤에도 기온이 25도 아래로 안 떨어져서 후덥지근하고 잠들기 힘든 밤을 말해요." },
       "quiz": { "question": "열대야는 밤에도 더워서 생기는 현상이다?", "answer": "O", "explain": "맞아요! 밤에도 기온이 안 떨어지는 게 열대야예요." },
       "kongi": "콩이는 더울 땐 그늘에서 낮잠 자요... 여러분도 물 꼭 챙겨 마셔요! 💧",
-      "source": { "name": "인사이트", "url": "https://www.insight.co.kr/news/566092" }
+      "source": { "name": "SBS 뉴스", "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008696977" }
     },
     {
       "id": "tech-01",
@@ -54,25 +54,25 @@
       "word": { "term": "온디바이스", "explain": "인터넷 서버에 물어보지 않고, 기기 자체가 스스로 계산하고 판단하는 방식을 말해요." },
       "quiz": { "question": "Gemini Robotics 2는 여러 로봇이 함께 움직이도록 도와줄 수 있다?", "answer": "O", "explain": "맞아요! 여러 로봇이 손발을 맞춰 일하도록 도와줘요." },
       "kongi": "로봇 친구들이 콩이보다 똑똑해지는 거 아니야...? 😳",
-      "source": { "name": "얼리어답터뉴스", "url": "https://eanews.kr/news/930665" }
+      "source": { "name": "디지털투데이", "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=657487" }
     },
     {
       "id": "zoo-01",
       "category": "동물원",
       "categoryColor": "#FF9F43",
-      "emoji": "🦒",
+      "emoji": "🦁",
       "difficulty": "쉬움",
-      "title": "에버랜드에 새 친구, 기린 '마루'를 소개해요",
+      "title": "8년 만에 태어난 아기 사자 '라온'을 에버랜드에서 만나요",
       "summary": [
-        "에버랜드에 사는 아기 기린의 이름이 '마루'로 지어졌어요.",
-        "마루는 8월 21일, '세계 기린의 날'에 맞춰 사람들 앞에 정식으로 공개됐어요.",
-        "기린은 목이 길어서 나무 꼭대기의 잎도 쉽게 따 먹을 수 있는 동물이에요.",
-        "동물원 관계자들은 마루가 건강하게 잘 자라도록 정성껏 돌보고 있대요."
+        "에버랜드에서 8년 만에 태어난 아기 사자 '라온'이가 8월 5일부터 사람들 앞에 처음 공개됐어요.",
+        "라온이는 6월 5일에 태어났는데, 엄마 사자가 돌보기 어려워지면서 사육사들이 우유를 먹이며 정성껏 키웠대요.",
+        "이렇게 사람이 엄마 대신 새끼 동물을 직접 키우는 것을 '인공포육'이라고 해요.",
+        "지금은 몸무게가 5.5킬로그램이 넘을 만큼 튼튼하게 잘 자라고 있대요."
       ],
-      "word": { "term": "세계 기린의 날", "explain": "기린을 보호하자는 뜻으로 사람들이 정한 날로, 매년 8월 21일이에요." },
-      "quiz": { "question": "마루는 8월 21일에 공개됐다?", "answer": "O", "explain": "맞아요! 세계 기린의 날에 맞춰 공개됐어요." },
-      "kongi": "콩이도 목이 이만큼 길었으면... 높은 선반 과자도 꺼내 먹을 텐데! 🦒",
-      "source": { "name": "위드에버랜드", "url": "https://www.witheverland.com/4438" }
+      "word": { "term": "인공포육", "explain": "엄마 동물이 새끼를 돌보지 못할 때, 사람이 대신 우유를 먹이고 보살펴 키우는 것을 말해요." },
+      "quiz": { "question": "라온이는 엄마 사자가 직접 키웠다?", "answer": "X", "explain": "아니에요! 엄마가 돌보기 어려워서 사육사들이 대신 키웠어요." },
+      "kongi": "콩이도 아기 라온이처럼 우유 먹고 무럭무럭 자라고 싶다! 🦁",
+      "source": { "name": "뉴스스페이스", "url": "https://www.newsspace.kr/news/article.html?no=15095" }
     },
     {
       "id": "sports-01",
@@ -90,7 +90,7 @@
       "word": { "term": "국제 대회", "explain": "세계 여러 나라의 선수들이 한자리에 모여 실력을 겨루는 큰 스포츠 행사예요." },
       "quiz": { "question": "코먼웰스 게임에는 74개 나라와 지역이 참가했다?", "answer": "O", "explain": "맞아요! 74개 나라와 지역, 3,000여 명의 선수가 참가했어요." },
       "kongi": "콩이는 달리기보다 응원을 더 잘해요! 다 같이 파이팅~ 📣",
-      "source": { "name": "Olympics.com", "url": "https://www.olympics.com/en/news/commonwealth-games-2026-all-results-complete-list" }
+      "source": { "name": "국제뉴스", "url": "https://www.gukjenews.com/news/articleView.html?idxno=3651014" }
     },
     {
       "id": "culture-01",
