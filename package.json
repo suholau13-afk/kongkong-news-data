@@ -3,6 +3,7 @@
   "private": true,
   "dependencies": {
     "@mozilla/readability": "^0.5.0",
+    "@netlify/blobs": "^10.7.12",
     "jsdom": "^24.1.0"
   }
 }
